@@ -43,6 +43,5 @@ RubyはUNIXの哲学の上に構築されています。ですので、是非Lin
 で使うことをオススメします。Windowsでは他に考えることが多いのでできるだけやめて下さい。
 Windowsの場合、VirtualBoxなどの仮想環境をつかってLinuxをインストールすることを
 オススメします。その場合は[Vagrant](https://www.vagrantup.com/)を使ってdebianをインストールすると楽です。
-
-
+その際に使用する Vagrantfile は[こちら](./Vagrantfile)です。
 
